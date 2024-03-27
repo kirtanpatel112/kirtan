@@ -1,0 +1,44 @@
+
+.navbar{
+    background-color:#709515;
+}
+
+.top-section{
+    display: flex;
+}
+.image-div, .side-detail-div{
+    margin-top: 70px;
+    margin-left: 70px;
+    background-color:#add994;
+    width: 34rem;
+    display: block;
+}
+.side-detail-div{
+    width: 45%;
+    margin-right: 40px;
+}
+.card-img-top{
+    border-radius:50%;
+
+}
+.card-title , .card-text{
+    text-align: center;
+    padding: 10px;
+}
+.inner-div{
+    margin-left: 40px;
+    display: flex;
+}
+.col-8{
+    margin-left: 40px;
+}
+
+footer{
+    margin-top: 40px;
+    padding-left: 70px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+}
+.form-label{
+    float: left;
+}
